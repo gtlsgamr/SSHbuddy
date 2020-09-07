@@ -1,5 +1,7 @@
 # SSHbuddy
 SSH helper for storing and accessing as well copying to your ssh addresses.
+Installtion:
+Just run install.sh (it copies the sshbuddy file to your /usr/bin)
 
 Dependencies:
 ```
