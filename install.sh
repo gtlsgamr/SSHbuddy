@@ -1,0 +1,1 @@
+cp sshbuddy /usr/bin
