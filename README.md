@@ -1,4 +1,5 @@
 # SSHbuddy
+    #NOTE: I realised at a later time that this was possible all along using ssh config files. Still keeping this as a fun way to remind me to RTFM.
 SSH helper for storing and accessing as well copying to your ssh addresses.
 Installtion:
 Just run install.sh (it copies the sshbuddy file to your /usr/bin)
